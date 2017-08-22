@@ -8,7 +8,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/4"/>vue-lazyload</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/EmberJS/issues/5"/>ember语法</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/5"/>vuex</td>
    <td><a href="https://github.com/Narutocc/EmberJS/issues/6"/>ember 语法example</td>
   </tr>
  <tr>
