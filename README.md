@@ -12,6 +12,6 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/6"/>vue随手笔记</td>
   </tr>
  <tr>
-   <td><a href="https://github.com/Narutocc/EmberJS/issues/7"/>ember HTTP请求</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/7"/>vue请求数据分页</td>
   </tr>
 </table>
