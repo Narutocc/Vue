@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="https://github.com/Narutocc/EmberJS/issues/1"/>Ember API</td>
+    <td><a href="https://github.com/Narutocc/Vue/issues/1"/>Vue-resource</td>
     <td><a href="https://github.com/Narutocc/EmberJS/issues/2"/>ember-bootstrap</td>
   </tr>
   <tr>
