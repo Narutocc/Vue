@@ -13,5 +13,6 @@
   </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/7"/>vue请求数据分页</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/7"/>vue实现动态全选</td>
   </tr>
 </table>
