@@ -23,4 +23,9 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/11"/>vue-router</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/12"/>封装组件实现分页</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/13"/>自定义指令实现highcharts</td>
+  </tr>
+ 
+ 
 </table>
