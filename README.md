@@ -17,7 +17,10 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/9"/>vue语法汇总</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/7"/>vue实现动态全选</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/10"/>vue自带的父子组件之间数据传递</td>
   </tr>
- 
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/9"/>vue语法汇总</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/10"/>vue自带的父子组件之间数据传递</td>
+  </tr>
 </table>
