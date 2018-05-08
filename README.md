@@ -20,7 +20,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/10"/>vue自带的父子组件之间数据传递</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/9"/>vue语法汇总</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/11"/>vue-router</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/10"/>vue自带的父子组件之间数据传递</td>
   </tr>
 </table>
