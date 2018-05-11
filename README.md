@@ -28,8 +28,10 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/14"/>vue2.0拼接字符串</td>
   </tr>
  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/15"/>vue搜索逻辑 </td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/15"/>vue搜索逻辑</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/16"/>vue-highcharts（插件）</td>
   </tr>
-
+ <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/17"/>vue生命周期</td>
+  </tr>
 </table>
