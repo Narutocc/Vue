@@ -37,7 +37,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/19"/>Element-UI table排序+分页问题</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/18"/></td>
   </tr>
  
 </table>
