@@ -31,8 +31,13 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/15"/>vue搜索逻辑</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/16"/>vue-highcharts（插件）</td>
   </tr>
- <tr>
+  <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/17"/>vue生命周期</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/18"/>Element-UI table排序+分页问题</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/18"/>vue关闭eslint</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/19"/>Element-UI table排序+分页问题</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/18"/></td>
+  </tr>
+ 
 </table>
