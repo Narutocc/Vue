@@ -36,7 +36,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/18"/>vue关闭eslint</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/19"/>Element-UI table排序+分页问题1</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/19"/>Element-UI table排序+分页问题</td>
   </tr>
  
 </table>
