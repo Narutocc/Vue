@@ -46,4 +46,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/21"/>vue2路由vue-router配置（懒加载）</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/22"/>按需加载组件 --- webpack.require.ensure</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/23"/>响应路由参数的变化</td>
+  </tr>
 </table>
