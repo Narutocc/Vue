@@ -43,7 +43,7 @@
 <div>Vue进阶</div>
 <table>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/21"/>Element-UI table排序+分页问题</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/21"/>vue2路由vue-router配置（懒加载）</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/22"/>vue监听数组/对象</td>
   </tr>
 </table>
