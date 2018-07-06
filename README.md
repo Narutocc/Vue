@@ -44,6 +44,6 @@
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/21"/>vue2路由vue-router配置（懒加载）</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/22"/>vue监听数组/对象</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/22"/>按需加载组件 --- webpack.require.ensure</td>
   </tr>
 </table>
