@@ -48,5 +48,9 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/23"/>响应路由参数的变化</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/25"/>vuex——mapState</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/24"/>vuex——mapState</td>
   </tr>
 </table>
