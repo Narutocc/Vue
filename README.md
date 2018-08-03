@@ -52,5 +52,9 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/24"/>vuex——mapGetters</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/25"/>vuex——mutation</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——action</td>
   </tr>
 </table>
