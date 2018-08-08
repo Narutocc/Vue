@@ -66,5 +66,6 @@
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue-awesome-swiper</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/31"/>vue2.0+sass定义全局变量（组件）</td>
   </tr>
 </table>
