@@ -59,5 +59,12 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——action</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/29"/>vue mixins</td>
+  </tr>
+</table>
+<div>插件</div>
+<table>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue2路由vue-router配置（懒加载）</td>
   </tr>
 </table>
