@@ -40,7 +40,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/20"/>vue监听数组/对象</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/27"/>修饰符及键盘事件</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/28"/>修饰符及键盘事件</td>
   </tr>
 </table>
 <div>Vue进阶</div>
@@ -55,9 +55,9 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/24"/>vuex——mapGetters</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/25"/>vuex——mutation</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——mutation</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——action</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——action</td>
   </tr>
 </table>
