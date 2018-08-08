@@ -65,6 +65,6 @@
 <div>插件</div>
 <table>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue2路由vue-router配置（懒加载）</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue-awesome-swiper</td>
   </tr>
 </table>
