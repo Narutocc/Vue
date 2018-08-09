@@ -56,10 +56,10 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/24"/>vuex——mapGetters</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——mutation</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——mapMutations</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——action</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——mapActions</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/29"/>vue mixins</td>
   </tr>
   <tr>
