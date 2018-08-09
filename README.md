@@ -62,6 +62,9 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——action</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/29"/>vue mixins</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/34"/>vue2.0 axios</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
@@ -70,6 +73,6 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/31"/>vue2.0+sass定义全局变量（组件）</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/32"/>nprogress.js</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/33"/>nprogress.js</td>
   </tr>
 </table>
