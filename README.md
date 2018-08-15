@@ -64,7 +64,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/34"/>vue2.0 axios</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/35"/>vue-quill-editor</td>
   </tr>
 </table>
 <div>插件</div>
@@ -75,5 +74,9 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/33"/>nprogress.js</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/35"/>vue-quill-editor</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/36"/>elementui + vue-quill-editor</td>
   </tr>
 </table>
