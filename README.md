@@ -64,6 +64,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/34"/>vue2.0 axios</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/38"/>project</td>
   </tr>
 </table>
 <div>插件</div>
@@ -78,6 +79,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/36"/>elementui + vue-quill-editor</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/36"/>Element UI</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/37"/>Element UI</td>
   </tr>
 </table>
