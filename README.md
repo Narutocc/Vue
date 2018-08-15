@@ -78,5 +78,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/36"/>elementui + vue-quill-editor</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/36"/>Element UI</td>
   </tr>
 </table>
