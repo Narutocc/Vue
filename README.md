@@ -43,6 +43,9 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/28"/>修饰符及键盘事件</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/32"/>vue 路由</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/40"/>配置eslint</td>
+  </tr>
 </table>
 <div>Vue进阶</div>
 <table>
