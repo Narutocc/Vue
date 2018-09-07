@@ -70,7 +70,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/38"/>project</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/41"/>vue2.0 axios</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/41"/>keepAlive</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/42"/>vue路由中设置滚动行为（scrollBehavior）</td>
   </tr>
 </table>
