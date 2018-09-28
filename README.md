@@ -95,3 +95,10 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/39"/>qrCode</td>
   </tr>
 </table>
+<div>Vue Issue</div>
+<table>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue常规issue</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/31"/>优化类：同个页面多个弹窗与蒙层</td>
+  </tr>
+</table>
