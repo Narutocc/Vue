@@ -99,6 +99,6 @@
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/44"/>vue常规issues</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/31"/>优化类：同个页面多个弹窗与蒙层</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/45"/>优化类：同个页面多个弹窗与蒙层</td>
   </tr>
 </table>
