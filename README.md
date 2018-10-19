@@ -98,6 +98,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/39"/>qrCode</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/50"/>vue-ba</td>
   </tr>
 </table>
 <div>Vue Issue</div>
@@ -108,6 +109,5 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/47"/>v-cloak：解决首次加载数据出现抖动和表达式</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/45"/>优化类：同个页面多个弹窗与蒙层</td>
   </tr>
 </table>
