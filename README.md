@@ -49,7 +49,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/48"/>vue之nextTick</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/46"/>props 验证</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/49"/>vue input自动获取焦点</td>
   </tr>
 </table>
 <div>Vue进阶</div>
