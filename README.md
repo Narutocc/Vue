@@ -100,6 +100,9 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/39"/>qrCode</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/50"/>vue-ba</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/51"/>vue-lazyload</td>
+  </tr>
 </table>
 <div>Vue Issue</div>
 <table>
