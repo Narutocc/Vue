@@ -45,6 +45,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/40"/>配置eslint</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/46"/>props 验证</td>
   </tr>
 </table>
 <div>Vue进阶</div>
