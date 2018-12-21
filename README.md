@@ -125,6 +125,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/55"/>左右联动（小程序原生组件写法）</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/56"/>小程序Api</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/56"/>授权定位（小程序api + 腾讯地图api）</td>
   </tr>
 </table>
