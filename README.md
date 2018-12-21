@@ -121,6 +121,10 @@
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/53"/>mpvue与vue差异</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/45"/>优化类：同个页面多个弹窗与蒙层</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/54"/>小程序Api</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/55"/>mpvue与vue差异</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/56"/>小程序Api</td>
   </tr>
 </table>
