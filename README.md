@@ -118,3 +118,9 @@
   </tr>
 </table>
 <div>mpvue</div>
+<table>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/53"/>mpvue与vue差异</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/45"/>优化类：同个页面多个弹窗与蒙层</td>
+  </tr>
+</table>
