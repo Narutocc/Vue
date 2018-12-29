@@ -105,6 +105,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/51"/>vue-lazyload</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/54"/>mint-ui中Toast重复弹出问题</td>
   </tr>
 </table>
 <div>Vue Issue</div>
