@@ -133,4 +133,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/59"/>实现通讯录效果--Vue篇</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/60"/>实现通讯录效果--mpvue篇</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/61"/>小程序绘图及保存相册（canvas）</td>
+  </tr>
 </table>
