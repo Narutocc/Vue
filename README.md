@@ -129,4 +129,8 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/55"/>左右联动（小程序原生组件写法）</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/56"/>授权定位（小程序api + 腾讯地图api）</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/59"/>实现通讯录效果--Vue篇</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/56"/>授权定位（小程序api + 腾讯地图api）</td>
+  </tr>
 </table>
