@@ -116,6 +116,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/47"/>v-cloak：解决首次加载数据出现抖动和表达式</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/58"/>vue项目不能同时被localhost和ip地址同时访问的办法</td>
   </tr>
 </table>
 <div>mpvue</div>
