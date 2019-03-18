@@ -85,6 +85,10 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/43"/>保存scroll位置</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/62"/>Vue.extend</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/63"/>Vue.extend()写法：element-ui的message组件</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/62"/>Vue.extend</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
