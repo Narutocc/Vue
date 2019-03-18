@@ -87,7 +87,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/63"/>Vue.extend()写法：element-ui的message组件</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/62"/>Vue.extend</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/64"/>vue单元测试</td>
   </tr>
 </table>
 <div>插件</div>
