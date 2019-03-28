@@ -140,6 +140,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/61"/>小程序绘图及保存相册（canvas）</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/64"/>API - wx.createSelectorQuery()</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/65"/>API - wx.createSelectorQuery()</td>
   </tr>
 </table>
