@@ -124,7 +124,7 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/58"/>vue项目不能同时被localhost和ip地址同时访问的办法</td>
   </tr>
 </table>
-<div>mpvue</div>
+<div>小程序</div>
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/53"/>mpvue与vue差异</td>
@@ -143,6 +143,6 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/65"/>API - wx.createSelectorQuery()</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/61"/>关于小程序的视频、音频</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/66"/>关于小程序的视频、音频</td>
   </tr>
 </table>
