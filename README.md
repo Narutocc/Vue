@@ -129,6 +129,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/68"/>element 键盘enter导致路由刷新issue</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/70"/>el-date-picker 回显问题</td>
   </tr>
 </table>
 <div>小程序</div>
