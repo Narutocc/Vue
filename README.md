@@ -92,6 +92,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/69"/>配置代理</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/72"/>项目搭建基础</td>
   </tr>
 </table>
 <div>插件</div>
