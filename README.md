@@ -55,6 +55,9 @@
    <td><a href="https://github.com/Narutocc/Vue/issues/52"/>vue模板</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/67"/>vue数据导入</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/74"/>vue input</td>
+  </tr>
 </table>
 <div>Vue进阶</div>
 <table>
