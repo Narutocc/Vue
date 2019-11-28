@@ -1,7 +1,8 @@
 typescript
+
 issues | issues
 -|-|
-[typescript基础篇](https://github.com/Narutocc/Vue/issues/1)|
+[typescript基础篇](https://github.com/Narutocc/Vue/issues/75)|
 
 <table>
   <tr>
