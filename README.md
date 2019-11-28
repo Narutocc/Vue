@@ -1,3 +1,8 @@
+typescript
+issues | issues
+-|-|
+[typescript基础篇](https://github.com/Narutocc/Vue/issues/1)|
+
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/Vue/issues/1"/>vue-resource</td>
