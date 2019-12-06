@@ -63,6 +63,7 @@ issues | issues
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/74"/>vue input</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/77"/>关于 router path 通配符*</td>
   </tr>
 </table>
 <div>Vue进阶</div>
