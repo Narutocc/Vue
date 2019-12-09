@@ -104,6 +104,9 @@ issues | issues
    <td><a href="https://github.com/Narutocc/Vue/issues/69"/>配置代理</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/72"/>项目搭建基础</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/78"/>vuex中modules模块化后，调用其他模块的属性值和方法</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
