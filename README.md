@@ -3,6 +3,7 @@ typescript
 issues | issues
 -|-|
 [typescript基础篇](https://github.com/Narutocc/Vue/issues/75)|[Vue Property Decorator](https://github.com/Narutocc/Vue/issues/76)
+[ts decorator装饰器](https://github.com/Narutocc/Vue/issues/79)
 
 <table>
   <tr>
