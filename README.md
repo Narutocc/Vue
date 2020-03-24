@@ -1,3 +1,9 @@
+Nuxt
+
+issues | issues
+-|-|
+[API](https://github.com/Narutocc/Vue/issues/75)|
+
 typescript
 
 issues | issues
