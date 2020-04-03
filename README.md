@@ -177,5 +177,6 @@ issues | issues
   </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/66"/>关于小程序的视频、音频</td>
+   <td><a href="https://github.com/Narutocc/Vue/issues/79"/>小程序scroll-view滚动监听</td>
   </tr>
 </table>
