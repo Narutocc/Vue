@@ -157,6 +157,9 @@ issues | issues
    <td><a href="https://github.com/Narutocc/Vue/issues/71"/>解决 vue NavigationDuplicated</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/73"/>slot for循环中解决eslint中key值的报错</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/86"/>swiper 展示过渡效果</td>
+  </tr>
 </table>
 <div>小程序</div>
 <table>
