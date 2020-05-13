@@ -115,6 +115,9 @@ issues | issues
    <td><a href="https://github.com/Narutocc/Vue/issues/78"/>vuex中modules模块化后，调用其他模块的属性值和方法</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/85"/>vue-cli中的.babelrc</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/87"/>监听一个对象</td>
+  </tr>
 </table>
 <div>插件</div>
 <table>
