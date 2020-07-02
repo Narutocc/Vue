@@ -2,7 +2,7 @@ Nuxt
 
 issues | issues
 -|-|
-[API](https://github.com/Narutocc/Vue/issues/75)|
+[API](https://github.com/Narutocc/Vue/issues/84)|
 
 typescript
 
