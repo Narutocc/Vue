@@ -11,11 +11,12 @@ issues | issues
 [typescript基础篇](https://github.com/Narutocc/Vue/issues/75)|[Vue Property Decorator](https://github.com/Narutocc/Vue/issues/76)
 [ts decorator装饰器](https://github.com/Narutocc/Vue/issues/79)
 
+
+issues | issues
+-|-|
+[vue-resource](https://github.com/Narutocc/Vue/issues/1)|[组件](https://github.com/Narutocc/Vue/issues/2)
+
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/Vue/issues/1"/>vue-resource</td>
-    <td><a href="https://github.com/Narutocc/Vue/issues/2"/>组件</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/3"/>Vuex实现数据传递</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/4"/>vue-lazyload</td>
