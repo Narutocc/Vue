@@ -15,12 +15,9 @@ issues | issues
 issues | issues
 -|-|
 [vue-resource](https://github.com/Narutocc/Vue/issues/1)|[组件](https://github.com/Narutocc/Vue/issues/2)
+[Vuex实现数据传递](https://github.com/Narutocc/Vue/issues/3)|[vue-lazyload](https://github.com/Narutocc/Vue/issues/4)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/3"/>Vuex实现数据传递</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/4"/>vue-lazyload</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/5"/>vuex</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/6"/>vue随手笔记</td>
