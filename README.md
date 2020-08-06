@@ -20,12 +20,9 @@ issues | issues
 [vue请求数据分页](https://github.com/Narutocc/Vue/issues/7)|[vue实现动态全选](https://github.com/Narutocc/Vue/issues/8)
 [vue语法汇总](https://github.com/Narutocc/Vue/issues/9)|[vue自带的父子组件之间数据传递](https://github.com/Narutocc/Vue/issues/10)
 [vue-router](https://github.com/Narutocc/Vue/issues/11)|[封装组件实现分页](https://github.com/Narutocc/Vue/issues/12)
+[自定义指令实现highcharts](https://github.com/Narutocc/Vue/issues/13)|[vue2.0拼接字符串](https://github.com/Narutocc/Vue/issues/14)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/13"/>自定义指令实现highcharts</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/14"/>vue2.0拼接字符串</td>
-  </tr>
  <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/15"/>vue搜索逻辑</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/16"/>vue-highcharts（插件）</td>
