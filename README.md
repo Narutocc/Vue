@@ -21,12 +21,9 @@ issues | issues
 [vue语法汇总](https://github.com/Narutocc/Vue/issues/9)|[vue自带的父子组件之间数据传递](https://github.com/Narutocc/Vue/issues/10)
 [vue-router](https://github.com/Narutocc/Vue/issues/11)|[封装组件实现分页](https://github.com/Narutocc/Vue/issues/12)
 [自定义指令实现highcharts](https://github.com/Narutocc/Vue/issues/13)|[vue2.0拼接字符串](https://github.com/Narutocc/Vue/issues/14)
+[vue搜索逻辑](https://github.com/Narutocc/Vue/issues/15)|[vue-highcharts（插件）](https://github.com/Narutocc/Vue/issues/16)
 
 <table>
- <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/15"/>vue搜索逻辑</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/16"/>vue-highcharts（插件）</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/17"/>vue生命周期</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/18"/>vue关闭eslint</td>
