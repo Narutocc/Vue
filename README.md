@@ -23,12 +23,9 @@ issues | issues
 [自定义指令实现highcharts](https://github.com/Narutocc/Vue/issues/13)|[vue2.0拼接字符串](https://github.com/Narutocc/Vue/issues/14)
 [vue搜索逻辑](https://github.com/Narutocc/Vue/issues/15)|[vue-highcharts（插件）](https://github.com/Narutocc/Vue/issues/16)
 [vue生命周期](https://github.com/Narutocc/Vue/issues/17)|[vue关闭eslint](https://github.com/Narutocc/Vue/issues/18)
+[Element-UI table排序+分页问题](https://github.com/Narutocc/Vue/issues/19)|[vue监听数组/对象](https://github.com/Narutocc/Vue/issues/20)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/19"/>Element-UI table排序+分页问题</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/20"/>vue监听数组/对象</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/28"/>修饰符及键盘事件</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/32"/>vue 路由</td>
