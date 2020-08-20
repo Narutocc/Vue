@@ -24,12 +24,9 @@ issues | issues
 [vue搜索逻辑](https://github.com/Narutocc/Vue/issues/15)|[vue-highcharts（插件）](https://github.com/Narutocc/Vue/issues/16)
 [vue生命周期](https://github.com/Narutocc/Vue/issues/17)|[vue关闭eslint](https://github.com/Narutocc/Vue/issues/18)
 [Element-UI table排序+分页问题](https://github.com/Narutocc/Vue/issues/19)|[vue监听数组/对象](https://github.com/Narutocc/Vue/issues/20)
+[修饰符及键盘事件](https://github.com/Narutocc/Vue/issues/28)|[vue 路由](https://github.com/Narutocc/Vue/issues/32)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/28"/>修饰符及键盘事件</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/32"/>vue 路由</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/40"/>配置eslint</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/46"/>props 验证</td>
