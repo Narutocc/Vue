@@ -27,12 +27,9 @@ issues | issues
 [修饰符及键盘事件](https://github.com/Narutocc/Vue/issues/28)|[vue 路由](https://github.com/Narutocc/Vue/issues/32)
 [配置eslint](https://github.com/Narutocc/Vue/issues/40)|[props 验证](https://github.com/Narutocc/Vue/issues/46)
 [vue之nextTick](https://github.com/Narutocc/Vue/issues/48)|[vue input自动获取焦点](https://github.com/Narutocc/Vue/issues/49)
+[vue模板](https://github.com/Narutocc/Vue/issues/52)|[vue数据导入](https://github.com/Narutocc/Vue/issues/67)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/52"/>vue模板</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/67"/>vue数据导入</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/74"/>vue input</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/77"/>关于 router path 通配符*</td>
