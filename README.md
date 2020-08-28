@@ -28,14 +28,10 @@ issues | issues
 [配置eslint](https://github.com/Narutocc/Vue/issues/40)|[props 验证](https://github.com/Narutocc/Vue/issues/46)
 [vue之nextTick](https://github.com/Narutocc/Vue/issues/48)|[vue input自动获取焦点](https://github.com/Narutocc/Vue/issues/49)
 [vue模板](https://github.com/Narutocc/Vue/issues/52)|[vue数据导入](https://github.com/Narutocc/Vue/issues/67)
+[vue input](https://github.com/Narutocc/Vue/issues/74)|[关于 router path 通配符*](https://github.com/Narutocc/Vue/issues/77)
 
-<table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/74"/>vue input</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/77"/>关于 router path 通配符*</td>
-  </tr>
-</table>
-<div>Vue进阶</div>
+Vue进阶
+
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/21"/>vue2路由vue-router配置（懒加载）</td>
