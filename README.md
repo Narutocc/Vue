@@ -31,6 +31,8 @@ issues | issues
 [vue input](https://github.com/Narutocc/Vue/issues/74)|[关于 router path 通配符*](https://github.com/Narutocc/Vue/issues/77)
 
 Vue进阶
+issues | issues
+-|-|
 [vue2路由vue-router配置（懒加载）](https://github.com/Narutocc/Vue/issues/21)|[按需加载组件 --- webpack.require.ensure](https://github.com/Narutocc/Vue/issues/22)
 
 <table>
