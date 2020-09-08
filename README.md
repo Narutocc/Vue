@@ -35,12 +35,9 @@ issues | issues
 -|-|
 [vue2路由vue-router配置（懒加载）](https://github.com/Narutocc/Vue/issues/21)|[按需加载组件 --- webpack.require.ensure](https://github.com/Narutocc/Vue/issues/22)
 [响应路由参数的变化](https://github.com/Narutocc/Vue/issues/23)|[vuex——mapState](https://github.com/Narutocc/Vue/issues/25)
+[vuex——mapGetters](https://github.com/Narutocc/Vue/issues/24)|[vuex——mapMutations](https://github.com/Narutocc/Vue/issues/26)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/24"/>vuex——mapGetters</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/26"/>vuex——mapMutations</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/27"/>vuex——mapActions</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/29"/>vue mixins</td>
