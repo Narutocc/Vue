@@ -38,12 +38,9 @@ issues | issues
 [vuex——mapGetters](https://github.com/Narutocc/Vue/issues/24)|[vuex——mapMutations](https://github.com/Narutocc/Vue/issues/26)
 [vuex——mapActions](https://github.com/Narutocc/Vue/issues/27)|[vue mixins](https://github.com/Narutocc/Vue/issues/29)
 [vue2.0 axios](https://github.com/Narutocc/Vue/issues/34)|[project](https://github.com/Narutocc/Vue/issues/38)
+[keepAlive](https://github.com/Narutocc/Vue/issues/41)|[vue路由中设置滚动行为（scrollBehavior）](https://github.com/Narutocc/Vue/issues/42)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/41"/>keepAlive</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/42"/>vue路由中设置滚动行为（scrollBehavior）</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/43"/>保存scroll位置</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/62"/>Vue.extend</td>
