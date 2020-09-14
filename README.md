@@ -39,12 +39,9 @@ issues | issues
 [vuex——mapActions](https://github.com/Narutocc/Vue/issues/27)|[vue mixins](https://github.com/Narutocc/Vue/issues/29)
 [vue2.0 axios](https://github.com/Narutocc/Vue/issues/34)|[project](https://github.com/Narutocc/Vue/issues/38)
 [keepAlive](https://github.com/Narutocc/Vue/issues/41)|[vue路由中设置滚动行为（scrollBehavior）](https://github.com/Narutocc/Vue/issues/42)
+[保存scroll位置](https://github.com/Narutocc/Vue/issues/43)|[Vue.extend](https://github.com/Narutocc/Vue/issues/62)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/43"/>保存scroll位置</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/62"/>Vue.extend</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/63"/>Vue.extend()写法：element-ui的message组件</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/64"/>vue单元测试</td>
