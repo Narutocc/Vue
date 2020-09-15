@@ -40,12 +40,9 @@ issues | issues
 [vue2.0 axios](https://github.com/Narutocc/Vue/issues/34)|[project](https://github.com/Narutocc/Vue/issues/38)
 [keepAlive](https://github.com/Narutocc/Vue/issues/41)|[vue路由中设置滚动行为（scrollBehavior）](https://github.com/Narutocc/Vue/issues/42)
 [保存scroll位置](https://github.com/Narutocc/Vue/issues/43)|[Vue.extend](https://github.com/Narutocc/Vue/issues/62)
+[Vue.extend()写法：element-ui的message组件](https://github.com/Narutocc/Vue/issues/63)|[vue单元测试](https://github.com/Narutocc/Vue/issues/64)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/63"/>Vue.extend()写法：element-ui的message组件</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/64"/>vue单元测试</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/69"/>配置代理</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/72"/>项目搭建基础</td>
