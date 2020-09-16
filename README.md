@@ -97,6 +97,9 @@ issues | issues
    <td><a href="https://github.com/Narutocc/Vue/issues/86"/>swiper 展示过渡效果</td>
     <td><a href="https://github.com/Narutocc/Vue/issues/88"/>动态表头el-table表格数据没有更新解决</td>
   </tr>
+  <tr>
+   <td><a href="https://github.com/Narutocc/Vue/issues/89"/>Vetur插件编辑器报错</td>
+  </tr>
 </table>
 <div>小程序</div>
 <table>
