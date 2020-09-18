@@ -42,12 +42,9 @@ issues | issues
 [保存scroll位置](https://github.com/Narutocc/Vue/issues/43)|[Vue.extend](https://github.com/Narutocc/Vue/issues/62)
 [Vue.extend()写法：element-ui的message组件](https://github.com/Narutocc/Vue/issues/63)|[vue单元测试](https://github.com/Narutocc/Vue/issues/64)
 [配置代理](https://github.com/Narutocc/Vue/issues/69)|[项目搭建基础](https://github.com/Narutocc/Vue/issues/72)
+[vuex中modules模块化后，调用其他模块的属性值和方法](https://github.com/Narutocc/Vue/issues/78)|[vue-cli中的.babelrc](https://github.com/Narutocc/Vue/issues/85)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/78"/>vuex中modules模块化后，调用其他模块的属性值和方法</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/85"/>vue-cli中的.babelrc</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/87"/>监听一个对象</td>
   </tr>
