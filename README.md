@@ -46,11 +46,11 @@ issues | issues
 [监听一个对象](https://github.com/Narutocc/Vue/issues/87)
 
 插件
+issues | issues
+-|-|
+[vue-awesome-swiper](https://github.com/Narutocc/Vue/issues/30)|[vue2.0+sass定义全局变量（组件）](https://github.com/Narutocc/Vue/issues/31)
+
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/30"/>vue-awesome-swiper</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/31"/>vue2.0+sass定义全局变量（组件）</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/33"/>nprogress.js</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/35"/>vue-quill-editor</td>
