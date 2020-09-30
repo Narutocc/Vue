@@ -49,12 +49,9 @@ issues | issues
 issues | issues
 -|-|
 [vue-awesome-swiper](https://github.com/Narutocc/Vue/issues/30)|[vue2.0+sass定义全局变量（组件）](https://github.com/Narutocc/Vue/issues/31)
+[nprogress.js](https://github.com/Narutocc/Vue/issues/33)|[vue-quill-editor](https://github.com/Narutocc/Vue/issues/35)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/33"/>nprogress.js</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/35"/>vue-quill-editor</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/36"/>elementui + vue-quill-editor</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/37"/>Element UI</td>
