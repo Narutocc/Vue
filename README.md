@@ -50,12 +50,9 @@ issues | issues
 -|-|
 [vue-awesome-swiper](https://github.com/Narutocc/Vue/issues/30)|[vue2.0+sass定义全局变量（组件）](https://github.com/Narutocc/Vue/issues/31)
 [nprogress.js](https://github.com/Narutocc/Vue/issues/33)|[vue-quill-editor](https://github.com/Narutocc/Vue/issues/35)
+[elementui + vue-quill-editor](https://github.com/Narutocc/Vue/issues/36)|[Element UI](https://github.com/Narutocc/Vue/issues/37)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/36"/>elementui + vue-quill-editor</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/37"/>Element UI</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/39"/>qrCode</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/50"/>vue-ba</td>
