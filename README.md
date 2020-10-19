@@ -51,12 +51,9 @@ issues | issues
 [vue-awesome-swiper](https://github.com/Narutocc/Vue/issues/30)|[vue2.0+sass定义全局变量（组件）](https://github.com/Narutocc/Vue/issues/31)
 [nprogress.js](https://github.com/Narutocc/Vue/issues/33)|[vue-quill-editor](https://github.com/Narutocc/Vue/issues/35)
 [elementui + vue-quill-editor](https://github.com/Narutocc/Vue/issues/36)|[Element UI](https://github.com/Narutocc/Vue/issues/37)
+[qrCode](https://github.com/Narutocc/Vue/issues/39)|[vue-ba](https://github.com/Narutocc/Vue/issues/50)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/39"/>qrCode</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/50"/>vue-ba</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/51"/>vue-lazyload</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/57"/>mint-ui中Toast重复弹出问题</td>
