@@ -11,6 +11,12 @@ issues | issues
 [typescript基础篇](https://github.com/Narutocc/Vue/issues/75)|[Vue Property Decorator](https://github.com/Narutocc/Vue/issues/76)
 [ts decorator装饰器](https://github.com/Narutocc/Vue/issues/79)
 
+Webpack
+
+issues | issues
+-|-|
+[webpack](https://github.com/Narutocc/text-share/issues/8)|[配置代理](https://github.com/Narutocc/text-share/issues/78)
+
 
 issues | issues
 -|-|
