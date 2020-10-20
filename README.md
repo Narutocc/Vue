@@ -59,14 +59,9 @@ issues | issues
 [nprogress.js](https://github.com/Narutocc/Vue/issues/33)|[vue-quill-editor](https://github.com/Narutocc/Vue/issues/35)
 [elementui + vue-quill-editor](https://github.com/Narutocc/Vue/issues/36)|[Element UI](https://github.com/Narutocc/Vue/issues/37)
 [qrCode](https://github.com/Narutocc/Vue/issues/39)|[vue-ba](https://github.com/Narutocc/Vue/issues/50)
+[vue-lazyload](https://github.com/Narutocc/Vue/issues/51)|[mint-ui中Toast重复弹出问题](https://github.com/Narutocc/Vue/issues/57)
 
-<table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/51"/>vue-lazyload</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/57"/>mint-ui中Toast重复弹出问题</td>
-  </tr>
-</table>
-<div>Vue Issue</div>
+Vue Issue
 <table>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/44"/>vue常规issues</td>
