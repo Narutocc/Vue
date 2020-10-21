@@ -62,11 +62,10 @@ issues | issues
 [vue-lazyload](https://github.com/Narutocc/Vue/issues/51)|[mint-ui中Toast重复弹出问题](https://github.com/Narutocc/Vue/issues/57)
 
 Vue Issue
+issues | issues
+-|-|
+[vue常规issues](https://github.com/Narutocc/Vue/issues/44)|[优化类：同个页面多个弹窗与蒙层](https://github.com/Narutocc/Vue/issues/45)
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/44"/>vue常规issues</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/45"/>优化类：同个页面多个弹窗与蒙层</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/47"/>v-cloak：解决首次加载数据出现抖动和表达式</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/58"/>vue项目不能同时被localhost和ip地址同时访问的办法</td>
