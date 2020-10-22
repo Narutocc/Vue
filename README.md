@@ -15,7 +15,7 @@ Webpack
 
 issues | issues
 -|-|
-[记一次漫长的打包优化过程](https://github.com/Narutocc/Vue/issues/90)
+[记一次漫长的打包优化过程](https://github.com/Narutocc/Vue/issues/90)|[loader优化 & vendor分包](https://github.com/Narutocc/Vue/issues/91)
 [webpack](https://github.com/Narutocc/text-share/issues/8)|[配置代理](https://github.com/Narutocc/text-share/issues/78)
 
 
