@@ -66,11 +66,9 @@ Vue Issue
 issues | issues
 -|-|
 [vue常规issues](https://github.com/Narutocc/Vue/issues/44)|[优化类：同个页面多个弹窗与蒙层](https://github.com/Narutocc/Vue/issues/45)
+[v-cloak：解决首次加载数据出现抖动和表达式](https://github.com/Narutocc/Vue/issues/47)|[vue项目不能同时被localhost和ip地址同时访问的办法](https://github.com/Narutocc/Vue/issues/58)
+
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/47"/>v-cloak：解决首次加载数据出现抖动和表达式</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/58"/>vue项目不能同时被localhost和ip地址同时访问的办法</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/68"/>element 键盘enter导致路由刷新issue</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/70"/>el-date-picker 回显问题</td>
