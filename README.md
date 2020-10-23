@@ -68,12 +68,9 @@ issues | issues
 [vue常规issues](https://github.com/Narutocc/Vue/issues/44)|[优化类：同个页面多个弹窗与蒙层](https://github.com/Narutocc/Vue/issues/45)
 [v-cloak：解决首次加载数据出现抖动和表达式](https://github.com/Narutocc/Vue/issues/47)|[vue项目不能同时被localhost和ip地址同时访问的办法](https://github.com/Narutocc/Vue/issues/58)
 [element 键盘enter导致路由刷新issue](https://github.com/Narutocc/Vue/issues/68)|[el-date-picker 回显问题](https://github.com/Narutocc/Vue/issues/70)
+[解决 vue NavigationDuplicated](https://github.com/Narutocc/Vue/issues/71)|[slot for循环中解决eslint中key值的报错](https://github.com/Narutocc/Vue/issues/73)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/71"/>解决 vue NavigationDuplicated</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/73"/>slot for循环中解决eslint中key值的报错</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/86"/>swiper 展示过渡效果</td>
     <td><a href="https://github.com/Narutocc/Vue/issues/88"/>动态表头el-table表格数据没有更新解决</td>
