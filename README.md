@@ -72,12 +72,12 @@ issues | issues
 [swiper 展示过渡效果](https://github.com/Narutocc/Vue/issues/86)|[动态表头el-table表格数据没有更新解决](https://github.com/Narutocc/Vue/issues/88)
 [Vetur插件编辑器报错](https://github.com/Narutocc/Vue/issues/89)
 
-<div>小程序</div>
+小程序
+issues | issues
+-|-|
+[mpvue与vue差异](https://github.com/Narutocc/Vue/issues/53)|[小程序Api](https://github.com/Narutocc/Vue/issues/54)
+
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/53"/>mpvue与vue差异</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/54"/>小程序Api</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/55"/>左右联动（小程序原生组件写法）</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/56"/>授权定位（小程序api + 腾讯地图api）</td>
