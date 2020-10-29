@@ -76,12 +76,9 @@ issues | issues
 issues | issues
 -|-|
 [mpvue与vue差异](https://github.com/Narutocc/Vue/issues/53)|[小程序Api](https://github.com/Narutocc/Vue/issues/54)
+[左右联动（小程序原生组件写法）](https://github.com/Narutocc/Vue/issues/55)|[授权定位（小程序api + 腾讯地图api）](https://github.com/Narutocc/Vue/issues/56)
 
 <table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/55"/>左右联动（小程序原生组件写法）</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/56"/>授权定位（小程序api + 腾讯地图api）</td>
-  </tr>
   <tr>
    <td><a href="https://github.com/Narutocc/Vue/issues/59"/>实现通讯录效果--Vue篇</td>
    <td><a href="https://github.com/Narutocc/Vue/issues/60"/>实现通讯录效果--mpvue篇</td>
