@@ -79,10 +79,4 @@ issues | issues
 [左右联动（小程序原生组件写法）](https://github.com/Narutocc/Vue/issues/55)|[授权定位（小程序api + 腾讯地图api）](https://github.com/Narutocc/Vue/issues/56)
 [实现通讯录效果--Vue篇](https://github.com/Narutocc/Vue/issues/59)|[实现通讯录效果--mpvue篇](https://github.com/Narutocc/Vue/issues/60)
 [小程序绘图及保存相册（canvas）](https://github.com/Narutocc/Vue/issues/61)|[API - wx.createSelectorQuery()](https://github.com/Narutocc/Vue/issues/65)
-
-<table>
-  <tr>
-   <td><a href="https://github.com/Narutocc/Vue/issues/66"/>关于小程序的视频、音频</td>
-   <td><a href="https://github.com/Narutocc/Vue/issues/80"/>小程序scroll-view滚动监听</td>
-  </tr>
-</table>
+[关于小程序的视频、音频](https://github.com/Narutocc/Vue/issues/66)|[小程序scroll-view滚动监听](https://github.com/Narutocc/Vue/issues/80)
