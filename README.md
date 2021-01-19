@@ -70,7 +70,7 @@ issues | issues
 [element 键盘enter导致路由刷新issue](https://github.com/Narutocc/Vue/issues/68)|[el-date-picker 回显问题](https://github.com/Narutocc/Vue/issues/70)
 [解决 vue NavigationDuplicated](https://github.com/Narutocc/Vue/issues/71)|[slot for循环中解决eslint中key值的报错](https://github.com/Narutocc/Vue/issues/73)
 [swiper 展示过渡效果](https://github.com/Narutocc/Vue/issues/86)|[动态表头el-table表格数据没有更新解决](https://github.com/Narutocc/Vue/issues/88)
-[Vetur插件编辑器报错](https://github.com/Narutocc/Vue/issues/89)|[el-input绑定循环报错](https://github.com/Narutocc/Vue/issues/95)
+[Vetur插件编辑器报错](https://github.com/Narutocc/Vue/issues/89)|[el-input绑定循环报错](https://github.com/Narutocc/Vue/issues/93)
 
 小程序
 issues | issues
