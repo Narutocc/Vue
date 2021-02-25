@@ -37,6 +37,7 @@ issues | issues
 [vue之nextTick](https://github.com/Narutocc/Vue/issues/48)|[vue input自动获取焦点](https://github.com/Narutocc/Vue/issues/49)
 [vue模板](https://github.com/Narutocc/Vue/issues/52)|[vue数据导入](https://github.com/Narutocc/Vue/issues/67)
 [vue input](https://github.com/Narutocc/Vue/issues/74)|[关于 router path 通配符*](https://github.com/Narutocc/Vue/issues/77)
+[OSS直传](https://github.com/Narutocc/Vue/issues/96)
 
 Vue进阶
 issues | issues
