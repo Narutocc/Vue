@@ -72,7 +72,7 @@ issues | issues
 [解决 vue NavigationDuplicated](https://github.com/Narutocc/Vue/issues/71)|[slot for循环中解决eslint中key值的报错](https://github.com/Narutocc/Vue/issues/73)
 [swiper 展示过渡效果](https://github.com/Narutocc/Vue/issues/86)|[动态表头el-table表格数据没有更新解决](https://github.com/Narutocc/Vue/issues/88)
 [Vetur插件编辑器报错](https://github.com/Narutocc/Vue/issues/89)|[el-input绑定循环报错](https://github.com/Narutocc/Vue/issues/93)
-[computed配合map方法](https://github.com/Narutocc/Vue/issues/94)
+[computed配合map方法](https://github.com/Narutocc/Vue/issues/94)|[升级elementui框架后，el-tabs浏览器卡死](https://github.com/Narutocc/Vue/issues/97)
 
 小程序
 issues | issues
