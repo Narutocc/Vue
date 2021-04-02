@@ -53,6 +53,7 @@ issues | issues
 [配置代理](https://github.com/Narutocc/Vue/issues/69)|[项目搭建基础](https://github.com/Narutocc/Vue/issues/72)
 [vuex中modules模块化后，调用其他模块的属性值和方法](https://github.com/Narutocc/Vue/issues/78)|[vue-cli中的.babelrc](https://github.com/Narutocc/Vue/issues/85)
 [监听一个对象](https://github.com/Narutocc/Vue/issues/87)|[路由钩子](https://github.com/Narutocc/Vue/issues/98)
+[实现一个SPA](https://github.com/Narutocc/Vue/issues/99)
 
 插件
 issues | issues
